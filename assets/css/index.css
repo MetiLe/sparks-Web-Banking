@@ -1,0 +1,22 @@
+body{
+    background-color:#e5e9ef;
+}
+.nav-item,a{
+    text-decoration:none;
+    color:black;
+    size: 30px;  
+
+}
+.nav-item :hover{
+    background-color: #001A65;
+    color:white;
+    transition: 0.25;
+    border: 10px;;
+}
+nav{
+    background-color: #bfcad9;
+    color:black;
+}
+.nav-brand{
+    align-self: initial;
+}
